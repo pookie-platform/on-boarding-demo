@@ -1,0 +1,136 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site is to enable you to try to navigate around some tools we use daily. This website is build using a wonderful open-source tool called quarto. The only important for this tool is that any file with .qmd will be processed and finally rendered out as the content of the webpage1. Also, the syntax is just straight up markdown syntax. Hopefully you guys are all familiar enough with markdown syntax, and navigate well on this page."
+  },
+  {
+    "objectID": "about.html#footnotes",
+    "href": "about.html#footnotes",
+    "title": "About",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nIn fact, it is first processed into a markdown file and then converted by pandoc to a website or a PDF. To learn more about quarto see here.↩︎"
+  },
+  {
+    "objectID": "contents/team-member/issac-leong.html",
+    "href": "contents/team-member/issac-leong.html",
+    "title": "A bit About Me - Isaac Leong",
+    "section": "",
+    "text": "Hey there! 👋 I’m Isaac Leong, a passionate developer and researcher with a strong focus on machine learning, NLP, and CUDA programming. I love working with data, optimizing algorithms, and building things that make a real impact.\nCurrently, I’m studying Advanced Computing (Honours) & Statistics at the Australian National University (ANU), where I specialize in machine learning and statistical data analysis. Outside of work and studies, I’m always exploring new technologies and staying up to date with the latest advancements in AI.\n\n\n\n📧 School Email: u7643339@anu.edu.au\n\n📧 Email: isaacleong23356@gmail.com\n\n\n\n\n\n🚀 Machine Learning & AI – Working with PyTorch, TensorFlow, and CUDA to optimize deep learning models.\n\n📊 Data Science & NLP – Exploring NLP model quantization, transformer architectures, and statistical data analysis.\n\n🏗 Software Development – Experience with C, C++, Java, Haskell, and Android development.\n\n💾 Databases – Familiar with Relational & NoSQL databases for scalable applications.\n\n🛠 Version Control & DevOps – Active on GitHub & GitLab, working with CI/CD workflows.\n\n\n\n\n\n\n\nDeveloped webpages\nLearned about recommendation system\n\n\n\n\n\n🎓 Australian National University (ANU) (2023 – Present)\n- Bachelor of Advanced Computing (Honours) & Statistics\n- Statistic is hard - Programming is also very hard…\n\n\n\n🎮 Love gaming and game development in my free time.\n🗣 Fluent in No Language after moving to Australia for a while and not speaking my mother tounge for a while. 🏆 Silver Medalist in the Fastest Eating Cup.\n\nAlways open to chatting about AI, tech, or cool projects! Feel free to reach out! 🚀",
+    "crumbs": [
+      "Home",
+      "Contents",
+      "Team Member",
+      "A bit About Me - Isaac Leong"
+    ]
+  },
+  {
+    "objectID": "contents/team-member/issac-leong.html#contact",
+    "href": "contents/team-member/issac-leong.html#contact",
+    "title": "A bit About Me - Isaac Leong",
+    "section": "",
+    "text": "📧 School Email: u7643339@anu.edu.au\n\n📧 Email: isaacleong23356@gmail.com",
+    "crumbs": [
+      "Home",
+      "Contents",
+      "Team Member",
+      "A bit About Me - Isaac Leong"
+    ]
+  },
+  {
+    "objectID": "contents/team-member/issac-leong.html#what-i-do",
+    "href": "contents/team-member/issac-leong.html#what-i-do",
+    "title": "A bit About Me - Isaac Leong",
+    "section": "",
+    "text": "🚀 Machine Learning & AI – Working with PyTorch, TensorFlow, and CUDA to optimize deep learning models.\n\n📊 Data Science & NLP – Exploring NLP model quantization, transformer architectures, and statistical data analysis.\n\n🏗 Software Development – Experience with C, C++, Java, Haskell, and Android development.\n\n💾 Databases – Familiar with Relational & NoSQL databases for scalable applications.\n\n🛠 Version Control & DevOps – Active on GitHub & GitLab, working with CI/CD workflows.",
+    "crumbs": [
+      "Home",
+      "Contents",
+      "Team Member",
+      "A bit About Me - Isaac Leong"
+    ]
+  },
+  {
+    "objectID": "contents/team-member/issac-leong.html#experience",
+    "href": "contents/team-member/issac-leong.html#experience",
+    "title": "A bit About Me - Isaac Leong",
+    "section": "",
+    "text": "Developed webpages\nLearned about recommendation system",
+    "crumbs": [
+      "Home",
+      "Contents",
+      "Team Member",
+      "A bit About Me - Isaac Leong"
+    ]
+  },
+  {
+    "objectID": "contents/team-member/issac-leong.html#education",
+    "href": "contents/team-member/issac-leong.html#education",
+    "title": "A bit About Me - Isaac Leong",
+    "section": "",
+    "text": "🎓 Australian National University (ANU) (2023 – Present)\n- Bachelor of Advanced Computing (Honours) & Statistics\n- Statistic is hard - Programming is also very hard…",
+    "crumbs": [
+      "Home",
+      "Contents",
+      "Team Member",
+      "A bit About Me - Isaac Leong"
+    ]
+  },
+  {
+    "objectID": "contents/team-member/issac-leong.html#fun-facts",
+    "href": "contents/team-member/issac-leong.html#fun-facts",
+    "title": "A bit About Me - Isaac Leong",
+    "section": "",
+    "text": "🎮 Love gaming and game development in my free time.\n🗣 Fluent in No Language after moving to Australia for a while and not speaking my mother tounge for a while. 🏆 Silver Medalist in the Fastest Eating Cup.\n\nAlways open to chatting about AI, tech, or cool projects! Feel free to reach out! 🚀",
+    "crumbs": [
+      "Home",
+      "Contents",
+      "Team Member",
+      "A bit About Me - Isaac Leong"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "On Boarding for TechLauncher Students",
+    "section": "",
+    "text": "This onboarding site is here to guide you through the workflow that you’ll be following starting Monday, from Week 4, Semester 1, all the way to the end of the year. It’s a long journey ahead, but we’re excited to have you on board!\n\n\n\nPookie Logo\n\n\nLet’s dive in and get started."
+  },
+  {
+    "objectID": "index.html#project-background",
+    "href": "index.html#project-background",
+    "title": "On Boarding for TechLauncher Students",
+    "section": "3.1 Project Background",
+    "text": "3.1 Project Background\nThe concept was first conceived in September 2024 as a platform that would enhance the fields of education and hiring. After going through three Startup Pre-accelerator programs, Pookie has now changed the direction of two of its ideas. Pookie wants to completely transform the way early-stage jobseekers and students interact with small and medium-sized businesses. We tackle this by beginning as an All-in-One Career Analytics platform that links small and medium-sized businesses with job searchers.\nPookie is your best friend, created by students for students and by a small-to medium-sized business for small-to medium-sized businesses. Pookie is there for you during good times and bad. It provides you with the best job recommendations and chances because it knows you better than you do. Even opportunities you never knew you needed."
+  },
+  {
+    "objectID": "index.html#team-structure",
+    "href": "index.html#team-structure",
+    "title": "On Boarding for TechLauncher Students",
+    "section": "3.2 Team Structure",
+    "text": "3.2 Team Structure\nYou will meet us in-person in week 4 which is what officially decided. However, I have included a brief overview of the different team members and the roles here for your reference in case you need to contact us.\n\n\n\nTable 1: Roles Table\n\n\n\n\n\n\n\n\n\n\nMember\nRoles\nWhen to Contact?\n\n\n\n\nRyan Tan\nBusiness Lead, Project Manager\nAnytime you would like a chat about new ideas for the project.\n\n\nIsaac Leong\nTech Lead, Admin\nI am up for a chat for any tech-related questions!\n\n\nSean Tan\nTech / Frontend Developer, Admin\nAnything about Tech!\n\n\nSiqi Lao\nUI Designer\nAnything related to arts.\n\n\n\n\n\n\nBtw: Please just call us with our first names…\n\n3.2.1 Getting to Know Each Other\nThanks for reading up until this stage. We have introduced ourselves and the corresponding roles already, a task for you is to sort out the roles distribution of your team with your tutor (if you have not done so)!\n\n\n\n\n\n\nSome Questions to Answer\n\n\n\n\n\n\nIs there a fixed role for everyone?\nOr would the roles be changing throughout the year?\nAny strong preference for a particular role?\nWhat are you good at / know of in terms of web dev?\n\n\n\n\nAfter you have sorted out yourselves, can you also please update us on the team channel?"
+  },
+  {
+    "objectID": "index.html#user-stories",
+    "href": "index.html#user-stories",
+    "title": "On Boarding for TechLauncher Students",
+    "section": "3.3 User Stories",
+    "text": "3.3 User Stories\nNow, we have already sent you the user stories prior to today’s session. It is a long user stories documents, but it provides good indication of our vision of the product. Therefore, please do take time to go through them and here are some of the questions you can use to check your own progress:\n\nWhat information is included in a jobseeker profile?\nWhat is on the homepage?"
+  },
+  {
+    "objectID": "index.html#sec-contrib-guide",
+    "href": "index.html#sec-contrib-guide",
+    "title": "On Boarding for TechLauncher Students",
+    "section": "5.1 Contribution Guide",
+    "text": "5.1 Contribution Guide\nThe overall contribution guide is very simple:\n\nOpen an issue for the things you are going to work on. Picking a suitable issue templates.\nOpen a feature branch for your issue, preferable starting with the issue number (i.e. in the format of [issue-number]-&lt;description&gt;)\nCoding, coding, coding…\nMake an PR from your feature branch against the main branch\nRequest peer-review for your code.\n\nNote that normally you would need Sean or Isaac to review your PR, but for this demo practice, you can have one of the group members to do it.\n\nMerge into main\n\nIt is very important to keep the main branch always work."
+  },
+  {
+    "objectID": "index.html#making-an-actual-contribution",
+    "href": "index.html#making-an-actual-contribution",
+    "title": "On Boarding for TechLauncher Students",
+    "section": "5.2 Making an Actual Contribution",
+    "text": "5.2 Making an Actual Contribution\nFinally, one tasks for you all is to create a something similar Isaac’s Self Introduction Page.\n\n\n\n\n\n\nContributing to the Repo\n\n\n\n\n\nIt is important that you follow the guideline in Section 5.1 so that you get used to the workflow for the future development. I understand it gives extra burdens on you, but it is important so that everyone’s work get to incorporated into the main branch nicely.\n\n\n\n\n\n\n\n\n\nCI/CD\n\n\n\n\n\nYou might also notice that what you have changed is not yet visible on the internet page. That’s common because I am lazy and have not yet set up a Continuout Deployment pipeline from GitHub. Relevant information can be found here."
+  }
+]
