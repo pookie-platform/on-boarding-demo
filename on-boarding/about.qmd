@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This site is to enable you to try to navigate around some tools we use daily. This website is build using a wonderful open-source tool called `quarto`. The only important for this tool is that any file with `.qmd` will be processed and finally rendered out as the content of the webpage[^1]. Also, the syntax is just straight up `markdown` syntax. Hopefully you guys are all familiar enough with `markdown` syntax, and navigate well on this page. 
+
+[^1]: In fact, it is first processed into a `markdown` file and then converted by `pandoc` to a website or a PDF. To learn more about `quarto` see [here](https://quarto.org/).

@@ -1,0 +1,159 @@
+---
+title: "On Boarding for TechLauncher Students"
+---
+
+# Welcome {#sec-welcome}
+
+This onboarding site is here to guide you through the workflow that you'll be
+following starting Monday, from Week 4, Semester 1, all the way to the end of
+the year. It's a long journey ahead, but we're excited to have you on board!
+
+![Pookie Logo](pookie-logo-default.svg)
+
+Let's dive in and get started.
+
+# GitHub {#sec-github}
+
+Version control system is nowadays the central part to all software development
+nowadays. For this project, we will be using GitHub for the main version control
+mechanism. Therefore, can we please have you register, if not done yet, a GitHub
+account. Then, please send the emails you have registered to us **_as soon as
+possible so that we can add you on the project_**. This is important as you need
+to be in the organisation before you can finish tasks in @sec-first-contrib.
+
+:::{.callout-tip title="GitHub Pro Account" collapse="true"}
+
+As an ANU student you are legible for getting a GitHub Pro account, make sure
+you get that benefits and don't fall in the trap of opening another account
+(which I did). You can use your existing account to get the benefits.
+
+:::
+
+# Project Overview {#sec-project-overview}
+
+## Project Background
+
+The concept was first conceived in September 2024 as a platform that would
+enhance the fields of education and hiring. After going through three Startup
+Pre-accelerator programs, Pookie has now changed the direction of two of its
+ideas. Pookie wants to completely transform the way early-stage jobseekers and
+students interact with small and medium-sized businesses. We tackle this by
+beginning as an All-in-One Career Analytics platform that links small and
+medium-sized businesses with job searchers.
+
+Pookie is your best friend, created by students for students and by a small-to
+medium-sized business for small-to medium-sized businesses. Pookie is there for
+you during good times and bad. It provides you with the best job recommendations
+and chances because it knows you better than you do. Even opportunities you
+never knew you needed.
+
+## Team Structure
+
+You will meet us in-person in week 4 which is what officially decided. However,
+I have included a brief overview of the different team members and the roles
+here for your reference in case you need to contact us.
+
+| Member      | Roles                            | When to Contact?                                               |
+| :---------- | :------------------------------- | :------------------------------------------------------------- |
+| Ryan Tan    | Business Lead, Project Manager   | Anytime you would like a chat about new ideas for the project. |
+| Isaac Leong | Tech Lead, Admin                 | I am up for a chat for any tech-related questions!             |
+| Sean Tan    | Tech / Frontend Developer, Admin | Anything about Tech!                                           |
+| Siqi Lao    | UI Designer                      | Anything related to arts.                                      |
+
+: Roles Table {#tbl-member-role .hover .striped}
+
+_Btw: Please just call us with our first names..._
+
+### Getting to Know Each Other
+
+Thanks for reading up until this stage. We have introduced ourselves and the
+corresponding roles already, a task for you is to sort out the roles
+distribution of your team with your tutor (if you have not done so)!
+
+:::{.callout-tip title="Some Questions to Answer" collapse="true"}
+
+- Is there a fixed role for everyone?
+- Or would the roles be changing throughout the year?
+- Any strong preference for a particular role?
+- What are you good at / know of in terms of web dev?
+
+:::
+
+After you have sorted out yourselves, can you also please update us on the team
+channel?
+
+## User Stories
+
+Now, we have already sent you the user stories prior to today's session. It is a
+long user stories documents, but it provides good indication of our vision of
+the product. Therefore, please do take time to go through them and here are some
+of the questions you can use to check your own progress:
+
+1. What information is included in a jobseeker profile?
+2. What is on the homepage?
+3.
+
+# Figma {#sec-figma}
+
+Figma is a prototyping platforms that allow us to build frontend prototype with
+a GUI similar to image editors. This is the tool that we will be using it to
+communicate the UI design to the development team.
+
+Now, can we please have you to set up an account on Figma. Please use the
+education account for figma so that you get access to more functionalities on
+the platform. It is important because you might not even be able to see the
+project if you do not have enough access to the platform.
+
+The link to applications for education plan for Figma can be found
+[here](https://www.figma.com/education/). Please also let us know the email you
+have used to register for Figma so that we can add you on the project.
+
+# Making Your First Contirubtion {#sec-first-contrib}
+
+Without a lie, this webpage is done by myself in a rush just probably less than
+15 hours ago, so you are likely to spot problems / places for improvement on
+this website. We are very open to suggestions for improvements, so if you find
+anything that you would like to improve on the webpage, please open an issue.
+
+First, can you navigate to the [about page](about.qmd) to first see how this
+website is built with a tool called `quarto`.
+
+## Contribution Guide {#sec-contrib-guide}
+
+The overall contribution guide is very simple:
+
+1. Open an issue for the things you are going to work on. Picking a suitable
+   issue templates.
+2. Open a feature branch for your issue, preferable starting with the issue
+   number (i.e. in the format of `[issue-number]-<description>`)
+3. Coding, coding, coding...
+4. Make an PR from your feature branch against the `main` branch
+5. Request peer-review for your code.
+   - Note that normally you would need Sean or Isaac to review your PR, but for
+     this demo practice, you can have one of the group members to do it.
+6. Merge into `main`
+
+It is very important to keep the `main` branch always work.
+
+## Making an Actual Contribution
+
+Finally, one tasks for you all is to create a something similar
+[Isaac's Self Introduction Page](./contents/team-member/issac-leong.qmd).
+
+:::{.callout-important title="Contributing to the Repo" collapse="false"}
+
+It is important that you follow the guideline in @sec-contrib-guide so that you
+get used to the workflow for the future development. I understand it gives extra
+burdens on you, but it is important so that everyone's work get to incorporated
+into the `main` branch nicely.
+
+:::
+
+:::{.callout-warning title="CI/CD" collapse="false"}
+
+You might also notice that what you have changed is not yet visible on the
+internet page. That's common because I am lazy and have not yet set up a
+Continuout Deployment pipeline from GitHub. Relevant information can be found
+[here](https://quarto.org/docs/websites/#workflow).
+
+:::

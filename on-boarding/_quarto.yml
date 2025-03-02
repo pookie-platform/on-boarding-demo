@@ -1,0 +1,41 @@
+project:
+  type: website
+
+website:
+  title: "On Boarding for TechLauncher Students"
+  repo-url: https://github.com/Isaac7777-cpu/comp3425-data-mining-notes
+  repo-actions: [edit, source, issue]
+  repo-branch: master
+  repo-subdir: on-boarding/
+  page-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+  sidebar:
+    style: "docked"
+    search: true
+    contents: contents
+    background: light
+  page-footer:
+    left: "Copyright 2025, Pookies Platform"
+    right:
+      - icon: github
+        href: https://pookie-landing-page.vercel.app
+format:
+  html:
+    theme:
+      light:
+        - cosmo
+        - brand
+      dark:
+        - darkly
+        - brand
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+    anchor-section: true
+    number-sections: true
+    number-depth: 3
+

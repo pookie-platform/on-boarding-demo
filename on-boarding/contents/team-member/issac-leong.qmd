@@ -1,0 +1,43 @@
+---
+title: "A bit About Me - Isaac Leong"
+---
+
+# About Me
+
+Hey there! 👋 I'm **Isaac Leong**, a passionate developer and researcher with a strong focus on **machine learning, NLP, and CUDA programming**. I love working with data, optimizing algorithms, and building things that make a real impact.  
+
+Currently, I'm studying **Advanced Computing (Honours) & Statistics** at the **Australian National University (ANU)**, where I specialize in **machine learning and statistical data analysis**. Outside of work and studies, I'm always exploring new technologies and staying up to date with the latest advancements in AI.
+
+## Contact  
+- 📧 **School Email:** [u7643339@anu.edu.au](mailto:u7643339@anu.edu.au)  
+- 📧 **Email:** [isaacleong23356@gmail.com](mailto:isaacleong23356@gmail.com)  
+
+## What I Do  
+- 🚀 **Machine Learning & AI** – Working with **PyTorch, TensorFlow, and CUDA** to optimize deep learning models.  
+- 📊 **Data Science & NLP** – Exploring NLP model quantization, transformer architectures, and statistical data analysis.  
+- 🏗 **Software Development** – Experience with **C, C++, Java, Haskell, and Android development**.  
+- 💾 **Databases** – Familiar with **Relational & NoSQL databases** for scalable applications.  
+- 🛠 **Version Control & DevOps** – Active on **GitHub & GitLab**, working with CI/CD workflows.  
+
+## Experience  
+### Full-Stack Dev, Operation, ML – *Pookie Platform* *(Jul 2024 – Aug 2024)*  
+- Developed webpages
+- Learned about recommendation system
+
+## Education  
+🎓 **Australian National University (ANU)** *(2023 – Present)*  
+- **Bachelor of Advanced Computing (Honours) & Statistics**  
+- Statistic is hard
+- Programming is also very hard...
+
+## Fun Facts  
+🎮 Love gaming and game development in my free time.  
+🗣 Fluent in **No Language** after moving to Australia for a while and not speaking my mother tounge for a while.
+🏆 **Silver Medalist** in the **Fastest Eating Cup**.  
+
+---
+
+Always open to chatting about **AI, tech, or cool projects**! Feel free to reach out! 🚀  
+
+[^1]: Disclamer: I have pretty much ChatGPT the whole thing just for your reference
+
