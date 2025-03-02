@@ -90,8 +90,14 @@ the product. Therefore, please do take time to go through them and here are some
 of the questions you can use to check your own progress:
 
 1. What information is included in a jobseeker profile?
-2. What is on the homepage?
-3.
+2. What is on the jobseeker homepage?
+3. Whta should appear on the recruiter homepage?
+4. What should appear for the applicant listing table?
+5. What filters are used for sorting the applicants when the recruiter is viewing the application progress?
+6. What filters are used for sorting potential applicants when the recruiter is trying to search for potential applicants?
+7. What thing does the recommendation system do in the platform? (_Note that this is scattered between jobseeker and recruiter_)
+8. When does notifications happen? (_For both jobseekers and recruiters_)
+
 
 # Figma {#sec-figma}
 
