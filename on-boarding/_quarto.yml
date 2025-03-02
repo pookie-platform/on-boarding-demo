@@ -5,7 +5,7 @@ website:
   title: "On Boarding for TechLauncher Students"
   repo-url: https://github.com/Isaac7777-cpu/comp3425-data-mining-notes
   repo-actions: [edit, source, issue]
-  repo-branch: master
+  repo-branch: main
   repo-subdir: on-boarding/
   page-navigation: true
   navbar:
