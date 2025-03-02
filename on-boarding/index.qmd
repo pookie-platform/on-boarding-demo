@@ -68,9 +68,10 @@ _Btw: Please just call us with our first names..._
 
 Thanks for reading up until this stage. We have introduced ourselves and the
 corresponding roles already, a task for you is to sort out the roles
-distribution of your team with your tutor (if you have not done so)!
+distribution of your team with your tutor (if you have not done so)! Ideally, we
+would like to have about equal numbers of frontend and backend developers.
 
-:::{.callout-tip title="Some Questions to Answer" collapse="true"}
+:::{.callout-tip title="Some Questions to Answer" collapse="false"}
 
 - Is there a fixed role for everyone?
 - Or would the roles be changing throughout the year?
@@ -93,11 +94,13 @@ of the questions you can use to check your own progress:
 2. What is on the jobseeker homepage?
 3. Whta should appear on the recruiter homepage?
 4. What should appear for the applicant listing table?
-5. What filters are used for sorting the applicants when the recruiter is viewing the application progress?
-6. What filters are used for sorting potential applicants when the recruiter is trying to search for potential applicants?
-7. What thing does the recommendation system do in the platform? (_Note that this is scattered between jobseeker and recruiter_)
+5. What filters are used for sorting the applicants when the recruiter is
+   viewing the application progress?
+6. What filters are used for sorting potential applicants when the recruiter is
+   trying to search for potential applicants?
+7. What thing does the recommendation system do in the platform? (_Note that
+   this is scattered between jobseeker and recruiter_)
 8. When does notifications happen? (_For both jobseekers and recruiters_)
-
 
 # Figma {#sec-figma}
 
