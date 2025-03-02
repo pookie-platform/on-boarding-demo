@@ -133,6 +133,9 @@ The overall contribution guide is very simple:
 
 1. Open an issue for the things you are going to work on. Picking a suitable
    issue templates.
+   - Note that normally we would create most of the feature requests issues for
+     you. However, on occasions where you find a bug, please open an issue to
+     let us know by tagging the `Admin` team.
 2. Open a feature branch for your issue, preferable starting with the issue
    number (i.e. in the format of `[issue-number]-<description>`)
 3. Coding, coding, coding...
