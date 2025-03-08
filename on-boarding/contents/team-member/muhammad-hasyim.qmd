@@ -1,0 +1,37 @@
+---
+title: "A Bit About Me - Muhammad Hafizh Hasyim"
+---
+
+# About Me
+
+Hey there! 👋 I'm **Hafizh**, an Advanced Computing student specialising in **Human-Centred & Creative Computing** and **Systems & Architecture**. I’m passionate about **problem-solving, backend engineering, and building systems that make a real-world impact**.
+
+I thrive at the intersection of **technology and innovation**—whether it’s optimising resource management for emergency response systems or brainstorming solutions to improve user experiences. Outside of work and studies, I’m always exploring new technologies and collaborating on projects that push boundaries.
+
+## Contact  
+- 📧 **Personal Email:** [hafizhasyim12@gmail.com](mailto:hafizhasyim12@gmail.com)  
+- 📧 **Uni Email:** [muhammad.hasyim@anu.edu.au](mailto:muhammad.hasyim@anu.edu.au)  
+- 🌍 **LinkedIn:** [linkedin.com/in/hafizhhasyim](https://linkedin.com/in/hafizhhasyim)  
+
+## What I Do  
+- 🚀 **Software Development & Systems Architecture** – Backend engineering, cloud-based solutions, and scalable system design.  
+- 🔧 **Backend & Web Development** – Experienced in **Java, Python**, and designing efficient API architectures.  
+- 🔥 **Optimising Emergency Response Tech** – Worked on **EmergiQ FireApp** to streamline volunteer resource management for bushfire responses.  
+- 💡 **Innovation & Collaboration** – Passionate about using technology to solve real-world challenges and collaborating with like-minded innovators.  
+
+## Experience  
+### Backend Developer – *EmergiQ FireApp* *(Feb 2024 – Nov 2024)*  
+- Developed backend systems to enhance volunteer resource management for bushfire response.  
+- Focused on optimising system performance and efficiency in critical scenarios.  
+
+## Education  
+🎓 **Australian National University (ANU)** *(2022 – Present)*  
+- **Bachelor of Advanced Computing** *(Human-Centred & Creative Computing + Systems & Architecture)*  
+
+## Fun Facts  
+🎮 **FIFA enthusiast** though I suck at it.  
+☕ Probably running on **coffee and late-night coding sessions**.  
+
+---
+
+Always happy to chat about **software development, innovation, or exciting projects**! 🚀  
