@@ -1,0 +1,39 @@
+---
+title: "About Me"
+author: "Junan Yu"
+date: "`r Sys.Date()`"
+---
+
+# About Me
+Hey there!   I’m Junan Yu, a passionate developer and researcher with a strong focus on Human-centred design. I love working with web pages, designing interfaces, and building things that look good.
+Currently, I’m studying Advanced Computing (Honours) at the Australian National University (ANU), where I specialize in Human centre interaction. Outside of work and studies, I’m always exploring new technologies and staying up to date with the latest advancements in AI.
+
+## Contact
+School Email: u7465711@anu.edu.au
+Email: youngyu1231@gmail.com
+GitHub: https://github.com/STERILITZIA02
+
+## What I Do
+Software Development:
+Extensive experience in programming with C, C++, Java, Haskell, Python, and C#, alongside proficiency in Android development.
+Database Management:
+Skilled in designing and managing SQL databases and integrating Firebase for application development.
+Version Control & DevOps:
+Proficient in utilizing GitHub and GitLab, with hands-on expertise in implementing CI/CD workflows to streamline development processes.
+
+## Experience
+- Course Selection Assistance Tool:
+Developed the front end of a course selection assistance application, similar to Wattle, that allows users to view course introductions, read comments, and flexibly arrange their timetables. This project was built using Android Studio and Java, with Firebase handling the back end.
+
+- Additionally, created a full-stack personal timeline website utilizing HTML, CSS, and JavaScript, with Firebase as the back-end service.
+
+- Joined Bsoft.lnc and contributed to a research team in collaboration with Zhejiang University, with a primary focus on testing.
+Project location: https://github.com/CMKRG/QiZhenGPT
+
+## Education
+🎓 Australian National University (ANU) (2022 – Present)
+- Bachelor of Advanced Computing (Honours) 
+
+## Fun Facts
+Outside of my professional pursuits, I am deeply engaged in creative and technical hobbies that enrich my perspective. I have a profound passion for gaming—not just as an enthusiastic player but also as a developer. This interest drives me to explore game development projects, where I blend storytelling, interactive design, and technical innovation to craft immersive experiences.
+In addition to gaming, I am an avid artist. I spend time drawing and experimenting with digital art techniques, which not only serve as a creative outlet but also inspire my approach to interface design and user experience. I channel this creativity into developing beautification plug-ins for web pages, focusing on enhancing visual appeal and usability. These projects allow me to integrate artistic flair with technical expertise, creating more engaging and intuitive digital environments.
