@@ -1,0 +1,37 @@
+---
+title: "About Me"
+author: "Muhammad Rabie Rizwan"
+---
+
+Hey there! 👋 I'm **Muhammad Rabie Rizwan**, a developer and researcher with a keen passion for machine learning, natural language processing (NLP), and systems programming. Currently, I'm in my final year of a **Bachelor of Advanced Computing (Honours)** at the **Australian National University (ANU)**, specialising in **Machine Learning**. I enjoy solving challenging problems, optimising algorithms, and exploring emerging technologies. 🚀
+
+## Contact
+
+- **University Email:** [u7229988@anu.edu.au](mailto:u7229988@anu.edu.au)  
+- **Personal Email:** [rabierizwan7@gmail.com](mailto:rabierizwan7@gmail.com)
+
+## Areas of Expertise
+
+- 🚀 **Machine Learning & AI**  
+  Specialised in developing algorithms, NLP models, computer vision projects, and performance optimisation.
+
+- 🏗 **Software Development**  
+  Proficient in building efficient, scalable systems, databases, and web applications.
+
+- 📊 **Data Analysis & Algorithm Optimisation**  
+  Experienced in managing structured and unstructured data, improving efficiency, and enhancing model accuracy.
+
+- 🛠 **Version Control & DevOps**  
+  Skilled in GitHub and GitLab, Continuous Integration/Continuous Deployment (CI/CD), Docker containerisation, and cloud-based deployments.
+
+## Experience
+
+### Full-Stack Developer – Kebabscrib *(2025)*  
+- Developed a responsive restaurant website integrated with a MongoDB backend.
+- Built and maintained a dynamic database system for menu content delivery.
+
+## Education
+
+### Australian National University *(2022 – Present)*  
+- **Bachelor of Advanced Computing (Honours)**  
+- **Specialisation:** Machine Learning
